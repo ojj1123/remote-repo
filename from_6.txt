@@ -2,3 +2,5 @@ from_6 한번 수정합니다.
 1. pull = fetch + merge
 
 push 실습
+
+fromt_7에서 수정한다
