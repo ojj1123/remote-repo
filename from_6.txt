@@ -2,3 +2,5 @@ from_6 한번 수정합니다.
 1. pull = fetch + merge
 
 push 실습
+
+충돌실험
